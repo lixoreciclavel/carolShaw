@@ -1,0 +1,76 @@
+*{
+    font-family: 'Inter', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #FFC2C2;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-top: 29px;
+    gap: 150px;
+    font-size: 24px;
+    margin-right: 85px;
+}
+
+h2{
+    margin-left: 165px;
+}
+.home{
+    text-decoration: none;
+    color: black;
+}
+
+.contact{
+    text-decoration: none;
+    color: black;
+}
+
+.help{
+    text-decoration: none;
+    color: black;
+}
+
+.site{
+    position: absolute;
+    width: 131px;
+    height: 30px;
+    left: 36px;
+    top: 30px;
+    text-decoration: none;
+    color: black;
+}
+
+.carol{
+    width: 1200px;
+    margin-top: 60px;
+    margin-left: 36px;
+    border-radius: 66px;
+ }
+
+.container{
+    display: flex;
+}
+
+.title{
+    margin-top: 60px;
+    font-size: 24px;
+    margin-left: 224px;
+}
+
+.text{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.leia{
+    margin-left: 265px;
+    margin-top: 60px;
+}
+
