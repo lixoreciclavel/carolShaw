@@ -6,7 +6,7 @@
 }
 
 body{
-    background-color: #FFC2C2;
+    background-color: #EA7979;
 }
 
 header{
@@ -19,9 +19,6 @@ header{
     margin-right: 85px;
 }
 
-h2{
-    margin-left: 165px;
-}
 .home{
     text-decoration: none;
     color: black;
@@ -49,7 +46,7 @@ h2{
 
 .carol{
     width: 1200px;
-    margin-top: 60px;
+    margin-top: 80px;
     margin-left: 36px;
     border-radius: 66px;
  }
@@ -66,7 +63,12 @@ h2{
 
 .text{
     margin-top: 30px;
-    margin-left: 10px;
+    margin-left: 14px;
+    font-weight: bold;
+}
+
+h2{
+    margin-left: 175px;
 }
 
 .leia{
@@ -74,3 +76,25 @@ h2{
     margin-top: 60px;
 }
 
+.jogos{
+    display: flex;
+    gap: 255px;
+    margin-top: 93px;
+    margin-left: 36px;
+}
+
+.jogo1 img{
+    width: 400px;
+    border-radius: 20px;
+}
+
+.jogo2 img{
+    width: 400px;
+    border-radius: 20px;
+}
+
+.jogo3 img{
+    width: 400px;
+    border-radius: 20px;
+}
+    
